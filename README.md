@@ -1,35 +1,38 @@
-# 🚀 Elite Placement Training: Phase 2 - Problem Solving Journal
+# 🚀 Elite Placement Training: Complete Problem Solving Journal
 
 ![Java](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Topic-DSA-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Questions_Solved-86-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Questions_Solved-150+-success?style=for-the-badge)
 
 ## 📌 About This Repository
-This repository is a comprehensive, daily archive of my coding progress during Phase 2 of Elite Placement Training. It serves as a personal log and a demonstration of consistent problem-solving. 
+This repository is a comprehensive, daily archive of my coding progress across **Phase 1 and Phase 2** of Elite Placement Training. It serves as a personal log and a demonstration of consistent, long-term problem-solving. 
 
-The repository currently contains **86 optimized solutions** written in Java, covering core Data Structures and Algorithms (DSA) concepts from platforms like LeetCode, HackerRank, and OneCompiler.
+The repository contains over 150 optimized solutions written in Java, covering core Data Structures and Algorithms (DSA) concepts from platforms like LeetCode, HackerRank, and OneCompiler.
 
 ---
 
-## 📚 Topic Breakdown
-A high-level overview of the specific logic and algorithms practiced during this training phase.
+## 📂 Phase 1: Core Fundamentals (Slot 1)
 
-| Date | Broad Topic | Specific Concepts & Sub-Topics Covered |
+| Date | Focus Area | Link to Code |
 | :--- | :--- | :--- |
-| **Feb 25, 2026** | 2D Arrays & Matrices | Matrix identity, element searching, row/col maximums, and calculating sums (total, rows, columns, major/minor diagonals, triangular matrices). |
-| **Feb 26, 2026** | Advanced Matrices | Validating specific matrix types (Toeplitz, Sparse, Scalar, Diagonal, Identity), matrix transposition, addition/subtraction, and boundary traversal. |
-| **Feb 27, 2026** | Matrix Patterns & Math | Generating concentric square and spiral patterns in 2D arrays, and performing matrix multiplication. |
-| **Mar 2, 2026** | String Manipulations | String equality, character searching, vowel replacement, special character counting, and validating Anagrams and Isograms. |
-| **Mar 3, 2026** | String Fundamentals | String slicing, alphanumeric/case validation, reversing, splitting by delimiters, ASCII value extraction, Palindrome checks, and vowel/consonant counting. |
-| **Mar 4, 2026** | Advanced Strings | In-place string reversal, blank space removal, CamelCase conversion, case toggling, character frequencies, and extracting/summing digits from strings. |
-| **Mar 6, 2026** | 1D Arrays & Math | Array prefix sums (running sums), concatenation/shuffling, counting smaller elements, array bounds/limits, sorting squares, and duplicate detection. |
-| **Mar 10, 2026** | Strings & Binary Search | Validating Pangrams, character frequency mapping, Binary Search algorithm, and constrained string reversals (reversing only letters or only vowels). |
-| **Mar 11, 2026** | Array & String Logic | Replacing array elements with the greatest element on the right, removing consecutive specific characters (vowels), and Anagram/Isogram/Pangram reviews. |
+| **Jan 21, 2026** | Phase 1 Problem Set | [View Solutions](./JAN%2021%202026.md) |
+| **Jan 22, 2026** | Phase 1 Problem Set | [View Solutions](./JAN%2022%202026.md) |
+| **Jan 23, 2026** | Phase 1 Problem Set | [View Solutions](./JAN%2023%202026.md) |
+| **Jan 27, 2026** | Phase 1 Problem Set | [View Solutions](./JAN%2027%202026.md) |
+| **Jan 28, 2026** | Phase 1 Problem Set | [View Solutions](./JAN%2028%202026.md) |
+| **Jan 29, 2026** | Phase 1 Problem Set | [View Solutions](./JAN%2029%202026.md) |
+| **Jan 30, 2026** | Phase 1 Problem Set | [View Solutions](./JAN%2030%202026.md) |
+| **Feb 2, 2026** | Phase 1 Problem Set | [View Solutions](./FEB%202%202026.md) |
+| **Feb 3, 2026** | Phase 1 Problem Set | [View Solutions](./FEB%203%202026.md) |
+| **Feb 4, 2026** | Phase 1 Problem Set | [View Solutions](./FEB%204%202026.md) |
+| **Feb 5, 2026** | Phase 1 Problem Set | [View Solutions](./FEB%205%202026.md) |
+| **Feb 6, 2026** | Phase 1 Problem Set | [View Solutions](./FEB%206%202026.md) |
+
+*(Note: Specific topics for Phase 1 will be updated as the files are parsed.)*
 
 ---
 
-## 📅 Daily Progress Tracker
-Click on any day to view the specific problem statements and my Java solutions.
+## 🚀 Phase 2: Advanced Logic & Algorithms (Slot 2)
 
 | Date | Focus Area | Platform | Questions Solved | Link to Code |
 | :--- | :--- | :--- | :---: | :--- |
