@@ -73,4 +73,6 @@ A high-level overview of the specific logic and algorithms practiced during this
 
 ---
 
+## 👨‍💻 About the Developer
+I am a third-year B.Tech IT student actively documenting my journey through rigorous placement preparation. Serving as the president of the IT department and having hands-on experience as an AWS Solutions Architect, I understand the value of continuous learning, leadership, and building efficient solutions. This repository reflects my dedication to writing clean, optimized, and well-structured code.
 
