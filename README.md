@@ -11,29 +11,50 @@ The repository contains over 150 optimized solutions written in Java, covering c
 
 ---
 
-## 📂 Phase 1: Core Fundamentals (Slot 1)
+## 📚 Topic Breakdown
+A high-level overview of the specific logic and algorithms practiced during this extensive training program.
 
-| Date | Focus Area | Link to Code |
+### Phase 1: Core Fundamentals
+| Date | Broad Topic | Specific Concepts & Sub-Topics Covered |
 | :--- | :--- | :--- |
-| **Jan 21, 2026** | Phase 1 Problem Set | [View Solutions](./JAN%2021%202026.md) |
-| **Jan 22, 2026** | Phase 1 Problem Set | [View Solutions](./JAN%2022%202026.md) |
-| **Jan 23, 2026** | Phase 1 Problem Set | [View Solutions](./JAN%2023%202026.md) |
-| **Jan 27, 2026** | Phase 1 Problem Set | [View Solutions](./JAN%2027%202026.md) |
-| **Jan 28, 2026** | Phase 1 Problem Set | [View Solutions](./JAN%2028%202026.md) |
-| **Jan 29, 2026** | Phase 1 Problem Set | [View Solutions](./JAN%2029%202026.md) |
-| **Jan 30, 2026** | Phase 1 Problem Set | [View Solutions](./JAN%2030%202026.md) |
-| **Feb 2, 2026** | Phase 1 Problem Set | [View Solutions](./FEB%202%202026.md) |
-| **Feb 3, 2026** | Phase 1 Problem Set | [View Solutions](./FEB%203%202026.md) |
-| **Feb 4, 2026** | Phase 1 Problem Set | [View Solutions](./FEB%204%202026.md) |
-| **Feb 5, 2026** | Phase 1 Problem Set | [View Solutions](./FEB%205%202026.md) |
-| **Feb 6, 2026** | Phase 1 Problem Set | [View Solutions](./FEB%206%202026.md) |
+| **Jan 21 - 30, 2026** | Programming Fundamentals | Basic logic building, control flows, and introductory problem-solving. *(Detailed topics mapped inside files)* |
+| **Feb 2, 2026** | 1D Arrays | Array traversal (left-to-right, right-to-left), calculating array sums, and validating Monotonic arrays. |
+| **Feb 3 - 6, 2026** | Array Logic & Manipulation | Intermediate array operations and logic building. *(Detailed topics mapped inside files)* |
 
-*(Note: Specific topics for Phase 1 will be updated as the files are parsed.)*
+### Phase 2: Advanced Logic & Algorithms
+| Date | Broad Topic | Specific Concepts & Sub-Topics Covered |
+| :--- | :--- | :--- |
+| **Feb 25, 2026** | 2D Arrays & Matrices | Matrix identity, element searching, row/col maximums, and calculating sums. |
+| **Feb 26, 2026** | Advanced Matrices | Validating specific matrix types (Toeplitz, Sparse, Scalar, Diagonal), transposition, and boundary traversal. |
+| **Feb 27, 2026** | Matrix Patterns & Math | Generating concentric square and spiral patterns in 2D arrays, and performing matrix multiplication. |
+| **Mar 2, 2026** | String Manipulations | String equality, character searching, vowel replacement, special character counting, and Anagrams/Isograms. |
+| **Mar 3, 2026** | String Fundamentals | String slicing, alphanumeric validation, reversing, splitting, ASCII extraction, and Palindrome checks. |
+| **Mar 4, 2026** | Advanced Strings | In-place string reversal, CamelCase conversion, case toggling, character frequencies, and digit extraction. |
+| **Mar 6, 2026** | 1D Arrays & Math | Array prefix sums, concatenation/shuffling, counting smaller elements, sorting squares, and duplicate detection. |
+| **Mar 10, 2026** | Strings & Binary Search | Validating Pangrams, frequency mapping, Binary Search ($O(\log N)$), and constrained string reversals. |
+| **Mar 11, 2026** | Array & String Logic | Replacing array elements with the greatest on the right, removing consecutive vowels, and string reviews. |
 
 ---
 
-## 🚀 Phase 2: Advanced Logic & Algorithms (Slot 2)
+## 📅 Daily Progress Tracker
 
+### Slot 1 (Phase 1)
+| Date | Focus Area | Link to Code |
+| :--- | :--- | :--- |
+| **Jan 21, 2026** | Phase 1 Fundamentals | [View Solutions](./JAN%2021%202026.md) |
+| **Jan 22, 2026** | Phase 1 Fundamentals | [View Solutions](./JAN%2022%202026.md) |
+| **Jan 23, 2026** | Phase 1 Fundamentals | [View Solutions](./JAN%2023%202026.md) |
+| **Jan 27, 2026** | Phase 1 Fundamentals | [View Solutions](./JAN%2027%202026.md) |
+| **Jan 28, 2026** | Phase 1 Fundamentals | [View Solutions](./JAN%2028%202026.md) |
+| **Jan 29, 2026** | Phase 1 Fundamentals | [View Solutions](./JAN%2029%202026.md) |
+| **Jan 30, 2026** | Phase 1 Fundamentals | [View Solutions](./JAN%2030%202026.md) |
+| **Feb 2, 2026** | 1D Arrays | [View Solutions](./FEB%202%202026.md) |
+| **Feb 3, 2026** | Phase 1 Fundamentals | [View Solutions](./FEB%203%202026.md) |
+| **Feb 4, 2026** | Phase 1 Fundamentals | [View Solutions](./FEB%204%202026.md) |
+| **Feb 5, 2026** | Phase 1 Fundamentals | [View Solutions](./FEB%205%202026.md) |
+| **Feb 6, 2026** | Phase 1 Fundamentals | [View Solutions](./FEB%206%202026.md) |
+
+### Slot 2 (Phase 2)
 | Date | Focus Area | Platform | Questions Solved | Link to Code |
 | :--- | :--- | :--- | :---: | :--- |
 | **Feb 25, 2026** | 2D Arrays & Matrix Operations | HackerRank | 10 | [View Solutions](./FEB%2025%202026.md) |
@@ -43,7 +64,7 @@ The repository contains over 150 optimized solutions written in Java, covering c
 | **Mar 3, 2026** | String Fundamentals | OneCompiler | 20 | [View Solutions](./MAR%203%202026.md) |
 | **Mar 4, 2026** | Advanced Strings & Toggles | HackerRank | 13 | [View Solutions](./MAR%204%202026.md) |
 | **Mar 6, 2026** | Arrays & Running Sums | LeetCode | 9 | [View Solutions](./MAR%206%202026.md) |
-| **Mar 10, 2026** | Strings & Binary Search | LeetCode  | 8 | [View Solutions](./MAR%2010%202026.md) |
+| **Mar 10, 2026** | Strings & Binary Search | LeetCode / HR | 8 | [View Solutions](./MAR%2010%202026.md) |
 | **Mar 11, 2026** | Frequencies & Array Replacements | HackerRank | 6 | [View Solutions](./MAR%2011%202026.md) |
 
 ---
