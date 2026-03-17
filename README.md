@@ -68,7 +68,7 @@ A high-level overview of the specific logic and algorithms practiced during this
 | **Mar 3, 2026** | String Fundamentals | OneCompiler | 20 | [View Solutions](./MAR%203%202026.md) |
 | **Mar 4, 2026** | Advanced Strings & Toggles | HackerRank | 13 | [View Solutions](./MAR%204%202026.md) |
 | **Mar 6, 2026** | Arrays & Running Sums | LeetCode | 9 | [View Solutions](./MAR%206%202026.md) |
-| **Mar 10, 2026** | Strings & Binary Search | LeetCode / HR | 8 | [View Solutions](./MAR%2010%202026.md) |
+| **Mar 10, 2026** | Strings & Binary Search | LeetCode  | 8 | [View Solutions](./MAR%2010%202026.md) |
 | **Mar 11, 2026** | Frequencies & Array Replacements | HackerRank | 6 | [View Solutions](./MAR%2011%202026.md) |
 
 ---
